@@ -6,7 +6,7 @@ with open("README.md","r") as infile:
 # This call to setup() does all the work
 setup(
     name="dsc-mailer",
-    version="1.0.0",
+    version="1.0.1",
     description="A simple mailing library for python powered applications using Sendgrid.",
     packages=find_packages(),
     long_description=README,
