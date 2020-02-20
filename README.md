@@ -6,7 +6,7 @@ A simple mailing library for python powered applications using Sendgrid.
 
 ## Installation
 
-To use the library using pip, run;
+To install the library using pip, run;
 
   
 
@@ -20,7 +20,7 @@ The library has one module for sending emails `mailer`
 
   
 
-> the mailer module contains a sendmail function that expects five parameters
+> the mailer module contains a send_mail function that expects five parameters
 
   
 
@@ -42,7 +42,7 @@ The library has one module for sending emails `mailer`
   
 
 ```python
-from dsc-mailer import mailer
+from dscmailer import mailer
 my_email = mailer.send_mail(sender, receiver, subject, html_content, api_key)
 
 ```
