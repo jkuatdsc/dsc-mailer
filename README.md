@@ -2,7 +2,7 @@
 
 A simple mailing library for python powered applications using Sendgrid.
 
-<img src="" width="1000">
+<img src="https://github.com/jkuatdsc/dsc-mailer/blob/master/assets/dsc_mailer.png?raw=true" width="1000">
 
 ## Installation
 
